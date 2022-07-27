@@ -32,5 +32,7 @@ By running the code found in [Run_Starter_Kit.ipynb](./Run_Starter_Kit.ipynb), a
 
 _____________________________________________________________________________
 # References
+
 [1] Liu, Z. et al. Machine learning with knowledge constraints for process optimization of open-air perovskite solar cell manufacturing. Joule 6, 834–849 (2022).
+
 [2] MIT Subject 2.S986, Fall 2020 [GitHub](https://github.com/PV-Lab/2s986_class).
