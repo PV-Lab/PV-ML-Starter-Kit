@@ -26,6 +26,6 @@ Several forms of data visualization are used to help the user better understand 
 
 ## Bayesian Optimization
 
-Bayesian optimization (BO) stems from the principles of [Bayes' Theorem](https://faculty.washington.edu/tamre/BayesTheorem.pdf). BO is a probabilistic tool used to help guide the selection of new data points within a dataset based on the computed means and variances of a surrogate model. BO is useful for driving experimental optimization when data is scarce or expensive to obtain.
+Bayesian optimization (BO) stems from the principles of [Bayes' Theorem](https://faculty.washington.edu/tamre/BayesTheorem.pdf). BO is a probabilistic tool used to help guide the selection of new data points within a dataset based on the computed means and variances of a surrogate model. BO is useful for driving experimental optimization when data are scarce or expensive to obtain.
 
 By running the code found in [Run_Starter_Kit.ipynb](./Run_Starter_Kit.ipynb), a set of suggested conditions will be presented by the algorithm. These conditions either exploit the predicted means to obtain a highly optimum sample or explore the high variance regions of the dataset to minimize uncertainity for the next round of sampling.
