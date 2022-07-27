@@ -10,7 +10,7 @@ This kit includes useful data visualization tools as well as a starter package f
 
 ## Input Data Format
 
-The input data consists of a `.csv file` with each experiment formatted into rows with each column being a real, continuous variable. The last column of the file should be the target variable that will be optimized. An example dataset on how to format the file properly can be found [here](./data/Example_PV_Dataset.csv).
+The input data consists of a `.csv file` with each experiment formatted into rows with each column being a real, continuous variable. The last column of the file should be the target variable that will be optimized. An example dataset on how to properly format the file is found [here](./data/Example_PV_Dataset.csv).
 
 ## Running the Code
 
