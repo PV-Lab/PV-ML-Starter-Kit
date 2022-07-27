@@ -20,7 +20,7 @@ All required packages and the corresponding versions can be found in the [requir
 
 Several forms of data visualization are used to help the user better understand the biases, correlations, and variable importance within the dataset.
 
-* **1D and 2D Histograms** plot the skew of data and their distributions against another variable. 
+* **1D and 2D Histograms** plot the distribution of data against another variable. 
 * **Correlation Coefficient Matrices** show how closely any two variables are coupled to each other.
 * **SHAP Feature Importance** ranks each variable as how important it is in determining the magnitude and direction of the target output variable values.
 
